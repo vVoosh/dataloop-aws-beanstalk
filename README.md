@@ -2,4 +2,4 @@
 
 Put the contents of .ebextensions into your beanstalk app
 
-Update the last line of 99dataloop.config file with YOUR_API_KEY
+Set DATALOOP_AGENT_KEY environment variable
